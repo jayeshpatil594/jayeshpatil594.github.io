@@ -105,7 +105,12 @@ strong{
     width: 100%;
     clear: both;
 }
-
+#showcase2-container {
+    padding-top: 60px;
+    background-color: #f6f8fa;
+    width: 100%;
+    clear: both;
+}
 p {
     margin: 0;
     line-height:1.8;
