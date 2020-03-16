@@ -571,7 +571,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
         8. Profiles
 --------------------------------------*/
 .col-sm-3{
-    background: black;
+    background: #000000;
 }
 .profiles {
     margin-top: 20px;
@@ -906,5 +906,35 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 @keyframes example {
     0%   {bottom:0px;}
     100%  {bottom:7px;}
+}
+/*footer*/
+footer {
+    background-color: black;
+    clear: both;
+    height: 300px;
+    background-image: url(../Images/footerbg.png);
+    background-position: 50% 50%;
+}
+.social-footer {
+    width: 25%;
+    float: left;
+    height: 40%;
+}
+.social-footer:hover {
+    background-color: black;
+    opacity: .5;
+}
+.center {
+    width: 50px;
+    margin: auto;
+    padding-top: 60px;
+}
+.copyright {
+    margin-top: 100px;
+    color: #ffffff;
+    font-size: .9em;
+    text-align: center;
+    display: block;
+    padding-top: 200px;
 }
 /*========================Thank you=================
