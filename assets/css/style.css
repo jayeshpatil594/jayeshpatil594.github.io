@@ -570,9 +570,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*-------------------------------------
         8. Profiles
 --------------------------------------*/
+.col-sm-3{
+    background: black;
+}
 .profiles {
     margin-top: 20px;
-    padding:  50px 0 100px;
+    padding:  50px 0 70px;
     border:  1px solid #e5ebf2;
 }
 
