@@ -60,13 +60,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
 }
-.contact-me{
-    color: black;
-    padding: 20px 0px 0px 0px;
-    margin-left: 20px;
-    text-align: center;
-    font-size: 20px;
-}
+
 strong{
     color: blue;
 }
@@ -262,7 +256,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     color: #3c4258;
     text-transform: initial;
     line-height: 1.8;
-    text-align: centerff;
+    text-align: center;
 }
 .single-about-txt p {
     font-size: 16px;
@@ -769,7 +763,13 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     color: #636a82;
     resize: none;
 }
-
+.contact-me{
+    color: black;
+    padding: 20px;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 20px;
+}
 /*--contct button--*/
 .contact-form .single-contact-btn {
     display:flex;
