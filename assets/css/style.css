@@ -389,9 +389,14 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .single-progress-txt {
     display: flex;
 }
+.progressText{
+    color:black;
+    font-weight: bold;
+}
 .single-progress-txt h3 {
     width: 10%;
-    color: #a606c3;
+    /*color: #a606c3;*/
+    color:black;
     position: relative;
     top: 6px;
     left: 20px;
@@ -571,7 +576,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
         8. Profiles
 --------------------------------------*/
 .col-sm-3{
-    background: #000000;
+    background: #5d85d5;
 }
 .profiles {
     margin-top: 20px;
