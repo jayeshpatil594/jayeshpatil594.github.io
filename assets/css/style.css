@@ -571,6 +571,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     width: 100%;
     clear: both;
 }
+@media screen and (max-width:800px) {
+  .col-2 {
+    width:100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
 
 /*-------------------------------------
         8. Profiles
