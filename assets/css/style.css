@@ -571,11 +571,21 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 .flip-box-back {
     border-radius: 20px;
-  background-color: dodgerblue;
+  background-color: #4da6ff;
   color: white;
   transform: rotateY(180deg);
 }
-
+.flip-text{
+    margin-top: 10px;
+    color: black;
+}
+.flip-text-p{
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
 /*-------------------------------------
         8. Profiles
 --------------------------------------*/
