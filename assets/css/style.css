@@ -571,7 +571,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 .flip-box-back {
     border-radius: 20px;
-  background-color: #4da6ff;
   color: white;
   transform: rotateY(180deg);
 }
