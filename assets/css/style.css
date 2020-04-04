@@ -195,7 +195,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     justify-content: center;
     position:relative;
     background:url(../images/about/undraw.svg)no-repeat;
-    background-size:1100px;
+    background-size:auto auto;
     background-position: center;
     height:790px;
 }
@@ -338,7 +338,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     padding-top:  25px;
 }
 .education-horizontal-timeline {
-    padding: 50px 0;
+    padding: 40px 0;
 }
 
 /*.education-horizontal-timeline*/
@@ -353,7 +353,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .timeline-horizontal-border {
     display:  flex;
     align-items: center;
-    padding: 26px 0 30px;
+    padding: 15px 0 30px;
 }
 .timeline-horizontal-border i {
     font-size:  10px;
