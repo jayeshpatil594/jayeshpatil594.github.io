@@ -12,9 +12,8 @@ font-family: 'Poppins', sans-serif;
 5.  Education
 6.  Skill
 7.  Experience
-8.  Profiles
-9.  Portfolio
-10. Clients
+8.  Projects
+9.  Profiles
 11. Contact
 
 /*-------------------------------------
@@ -334,7 +333,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 }
 .education-horizontal-timeline {
     padding: 40px 0;
+    
 }
+
 
 /*.education-horizontal-timeline*/
 .education-horizontal-timeline .col-sm-4 {padding:0 2px;}
