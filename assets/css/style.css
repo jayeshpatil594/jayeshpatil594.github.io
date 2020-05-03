@@ -525,6 +525,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*-------------------------------------
         Projects
 --------------------------------------*/
+.proj{
+    max-height: 900px;
+    min-height: 600px;
+}
 .flip-box {
   background-color: transparent;
   width: 30.7%;
@@ -533,6 +537,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
   perspective: 1000px;
   margin-left: 30px;
   float: left;
+  margin-top: 20px;
 }
 
 
@@ -590,6 +595,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     margin-top: 20px;
     padding:  50px 0 70px;
     border:  1px solid #e5ebf2;
+
 }
 
 .profiles-content {padding-top: 10px;}
